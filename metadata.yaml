@@ -1,0 +1,31 @@
+_repo: Memoirs-of-the-Court-of-Marie-Antoinette-Queen-of-France-Volume-7--13-Being-the-Historic-Memoi__3890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campan, Mme. (Jeanne-Louise-Henriette)
+    aliases:
+    - Campan, Jeanne Louise Henriette Genet
+    - Genet, Jeanne-Louise-Henriette
+    - Campan, Madame (Jeanne-Louise-Henriette)
+    birthdate: 1752
+    deathdate: 1822
+    gutenberg_agent_id: '1334'
+    url: http://www.gutenberg.org/2009/agents/1334
+    wikipedia: http://en.wikipedia.org/wiki/Jeanne-Louise-Henriette_Campan
+description: ''
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793'
+- !lcsh 'France -- Court and courtiers'
+- GITenberg
+title: "Memoirs of the Court of Marie Antoinette, Queen of France, Volume 7\r\nBeing\
+  \ the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen"
+url: http://www.gutenberg.org/ebooks/3890
