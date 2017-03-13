@@ -1,5 +1,8 @@
 _repo: Memoirs-of-the-Court-of-Marie-Antoinette-Queen-of-France-Volume-7--13-Being-the-Historic-Memoi__3890
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Campan, Mme. (Jeanne-Louise-Henriette)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1334
     wikipedia: http://en.wikipedia.org/wiki/Jeanne-Louise-Henriette_Campan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3890#Memoirs-of-the-Court-of-Marie-Antoinette-Queen-of-France-Volume-7--13-Being-the-Historic-Memoi_
 gutenberg_issued: '2004-12-04'
 gutenberg_type: Text
 identifiers:
